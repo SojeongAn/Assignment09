@@ -1,2 +1,3 @@
-# Assignment09
-This is my assignment09 of data mining class
+This script demonstrates binary classification, 
+
+Error is computed by FN, FP, TN, TP.
